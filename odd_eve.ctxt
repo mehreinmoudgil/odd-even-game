@@ -1,0 +1,8 @@
+#BlueJ class context
+#Wed Aug 26 20:43:08 IST 2026
+comment0.target=odd_eve
+comment1.target=int getIntOrExit()
+comment2.target=java.lang.String getStringOrExit()
+comment3.target=void main()
+comment4.target=java.lang.String fallback()
+numComments=5
