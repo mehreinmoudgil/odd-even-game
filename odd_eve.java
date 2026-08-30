@@ -27,7 +27,7 @@ class odd_eve
     }
     return input;
 }
-    public static void main()
+    public static void main(String[] args)
     {
         System.out.println("INSTRUCTIONS : Odd eve is a game where two players go turnwise batting and balling.\n The game proceeds with the batter trying to score runs while making no.s with his hand whereas the baller tries to outrun the batter by trying to match the no.s that the batter throws.\n The catch is that both the batter and baller make the no.s with their hand at the same time in a physical game.\n Here, however, since the machine is not programmed to change its answers based on yours, it's alright if you go first. \n You can only opt for no.s from 1-6. \n Type E if you want to terminate the game at any point.");
         Random rand = new Random ();
